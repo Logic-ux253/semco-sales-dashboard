@@ -1,0 +1,227 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/daniel.adero/Downloads/SEMCO%20Sales%20&%20Operations%20Dashboard_3.html
+Subject: SEMCO Sales & Operations Dashboard
+Date: Tue, 7 Jul 2026 09:24:49 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8WlNi38WxguCccWBdkDRh7rO6iq4ZkHF069tZHIfyl----"
+
+
+------MultipartBoundary--8WlNi38WxguCccWBdkDRh7rO6iq4ZkHF069tZHIfyl----
+Content-Type: text/html
+Content-ID: <frame-AEBC0370F0E3ED796EEBAC6C8E16A1C3@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/daniel.adero/Downloads/SEMCO%20Sales%20&%20Operations%20Dashboard_3.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-c96d0561-1f27-45f6-b89f-d34a84540377@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>SEMCO Sales &amp; Operations Dashboard</title>
+
+
+
+</head>
+<body>
+
+<div class=3D"toast" id=3D"toast">=E2=9C=85 Updated =E2=80=94 328 jobs, 201=
+4=E2=80=932026</div>
+
+<div class=3D"title-bar">
+  <h1>=F0=9F=93=8A SEMCO Sales &amp; Operations Dashboard</h1>
+  <div class=3D"right">
+    <span class=3D"subtitle" id=3D"subtitle">328 Jobs &nbsp;|&nbsp; 2014 =
+=E2=80=93 2026 &nbsp;|&nbsp; All figures in KES Millions</span>
+    <label class=3D"upload-btn">
+      =E2=AC=86 Update Data
+      <input type=3D"file" id=3D"fileInput" accept=3D".xlsx,.xls,.csv" styl=
+e=3D"display:none">
+    </label>
+  </div>
+</div>
+
+<div class=3D"kpi-row">
+  <div class=3D"kpi-card kpi-1">
+    <div class=3D"kpi-label">=F0=9F=92=B0 Total Revenue</div>
+    <div class=3D"kpi-value" id=3D"kpi-rev">KES 535.4M</div>
+    <div class=3D"kpi-sub" id=3D"kpi-rev-sub">Across 12 years of operations=
+</div>
+  </div>
+  <div class=3D"kpi-card kpi-2">
+    <div class=3D"kpi-label">=F0=9F=93=8B Total Jobs</div>
+    <div class=3D"kpi-value" id=3D"kpi-jobs">328</div>
+    <div class=3D"kpi-sub" id=3D"kpi-jobs-sub">Avg KES 1,632K per deal</div=
+>
+  </div>
+  <div class=3D"kpi-card kpi-3">
+    <div class=3D"kpi-label">=F0=9F=8F=86 Peak Year</div>
+    <div class=3D"kpi-value" id=3D"kpi-year">2024</div>
+    <div class=3D"kpi-sub" id=3D"kpi-year-sub">KES 136.8M revenue =C2=B7 62=
+ jobs</div>
+  </div>
+  <div class=3D"kpi-card kpi-4">
+    <div class=3D"kpi-label">=E2=AD=90 Top Salesperson</div>
+    <div class=3D"kpi-value" id=3D"kpi-sp">VINAY</div>
+    <div class=3D"kpi-sub" id=3D"kpi-sp-sub">KES 135.1M =C2=B7 78 jobs</div=
+>
+  </div>
+</div>
+
+<div class=3D"chart-grid">
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-blue">=F0=9F=93=88 Annual Revenue (M KES)=
+ &amp; Job Count</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c1" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 508px;" width=3D"762" height=3D=
+"255"></canvas></div>
+  </div>
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-green">=F0=9F=91=A4 Top 10 Salespersons b=
+y Revenue</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c2" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 351px;" width=3D"527" height=3D=
+"255"></canvas></div>
+  </div>
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-purple">=F0=9F=93=8D Top 10 Locations by =
+Revenue</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c3" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 351px;" width=3D"527" height=3D=
+"255"></canvas></div>
+  </div>
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-teal">=F0=9F=93=8A Cumulative Revenue Gro=
+wth (M KES)</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c4" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 508px;" width=3D"762" height=3D=
+"255"></canvas></div>
+  </div>
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-orange">=F0=9F=93=89 Year-over-Year Reven=
+ue Growth %</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c5" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 351px;" width=3D"527" height=3D=
+"255"></canvas></div>
+  </div>
+  <div class=3D"chart-panel">
+    <div class=3D"panel-header ph-red">=F0=9F=A5=A7 Revenue Share =E2=80=94=
+ Top 5 Locations</div>
+    <div class=3D"chart-wrap"><canvas id=3D"c6" style=3D"box-sizing: border=
+-box; display: block; height: 170px; width: 351px;" width=3D"527" height=3D=
+"255"></canvas></div>
+  </div>
+</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--8WlNi38WxguCccWBdkDRh7rO6iq4ZkHF069tZHIfyl----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c96d0561-1f27-45f6-b89f-d34a84540377@mhtml.blink
+
+@charset "utf-8";
+
+*, ::before, ::after { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: "Segoe UI", Arial, sans-serif; background: rgb(15, 25, =
+35); color: rgb(232, 237, 242); height: 100vh; width: 100vw; overflow: hidd=
+en; display: flex; flex-direction: column; }
+
+.title-bar { background: linear-gradient(135deg, rgb(26, 60, 94) 0%, rgb(46=
+, 109, 164) 100%); padding: 6px 20px; display: flex; align-items: center; j=
+ustify-content: space-between; flex-shrink: 0; border-bottom: 2px solid rgb=
+(46, 109, 164); }
+
+.title-bar h1 { font-size: clamp(13px, 1.4vw, 18px); font-weight: 700; lett=
+er-spacing: 1.5px; color: rgb(255, 255, 255); text-transform: uppercase; }
+
+.title-bar .right { display: flex; align-items: center; gap: 12px; }
+
+.subtitle { font-size: clamp(10px, 0.9vw, 13px); color: rgb(144, 184, 216);=
+ }
+
+.upload-btn { display: flex; align-items: center; gap: 6px; background: rgb=
+a(255, 255, 255, 0.12); border: 1.5px solid rgba(255, 255, 255, 0.25); colo=
+r: rgb(255, 255, 255); padding: 5px 14px; border-radius: 20px; font-size: 1=
+2px; font-weight: 600; cursor: pointer; transition: background 0.2s; white-=
+space: nowrap; }
+
+.upload-btn:hover { background: rgba(255, 255, 255, 0.22); border-color: rg=
+ba(255, 255, 255, 0.5); }
+
+.toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-5=
+0%); background: rgb(30, 132, 73); color: rgb(255, 255, 255); padding: 10px=
+ 24px; border-radius: 24px; font-size: 13px; font-weight: 600; opacity: 0; =
+transition: opacity 0.3s; pointer-events: none; z-index: 200; }
+
+.toast.error { background: rgb(192, 57, 43); }
+
+.toast.show { opacity: 1; }
+
+.kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; =
+padding: 6px 8px; flex-shrink: 0; }
+
+.kpi-card { border-radius: 6px; padding: 8px 12px; display: flex; flex-dire=
+ction: column; justify-content: center; position: relative; overflow: hidde=
+n; }
+
+.kpi-card::before { content: ""; position: absolute; top: -20px; right: -20=
+px; width: 70px; height: 70px; border-radius: 50%; background: rgba(255, 25=
+5, 255, 0.06); }
+
+.kpi-label { font-size: clamp(9px, 0.75vw, 11px); font-weight: 600; letter-=
+spacing: 1px; text-transform: uppercase; opacity: 0.8; margin-bottom: 2px; =
+}
+
+.kpi-value { font-size: clamp(16px, 1.8vw, 24px); font-weight: 800; line-he=
+ight: 1.1; }
+
+.kpi-sub { font-size: clamp(9px, 0.7vw, 11px); opacity: 0.7; margin-top: 2p=
+x; }
+
+.kpi-1 { background: linear-gradient(135deg, rgb(30, 132, 73), rgb(39, 174,=
+ 96)); }
+
+.kpi-2 { background: linear-gradient(135deg, rgb(26, 60, 94), rgb(46, 109, =
+164)); }
+
+.kpi-3 { background: linear-gradient(135deg, rgb(125, 60, 152), rgb(155, 89=
+, 182)); }
+
+.kpi-4 { background: linear-gradient(135deg, rgb(202, 111, 30), rgb(230, 12=
+6, 34)); }
+
+.chart-grid { flex: 1 1 0%; display: grid; grid-template-columns: 2fr 1.4fr=
+ 1.4fr; grid-template-rows: 1fr 1fr; gap: 6px; padding: 0px 8px 6px; min-he=
+ight: 0px; }
+
+.chart-panel { background: rgb(22, 35, 46); border-radius: 8px; border: 1px=
+ solid rgb(30, 51, 71); display: flex; flex-direction: column; overflow: hi=
+dden; min-height: 0px; }
+
+.panel-header { padding: 5px 12px; font-size: clamp(9px, 0.75vw, 11px); fon=
+t-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; flex-shrin=
+k: 0; border-radius: 8px 8px 0px 0px; }
+
+.ph-blue { background: rgb(26, 60, 94); color: rgb(144, 200, 240); }
+
+.ph-green { background: rgb(30, 77, 43); color: rgb(130, 224, 170); }
+
+.ph-purple { background: rgb(74, 35, 90); color: rgb(210, 180, 222); }
+
+.ph-orange { background: rgb(110, 48, 16); color: rgb(240, 178, 122); }
+
+.ph-teal { background: rgb(14, 61, 53); color: rgb(118, 215, 196); }
+
+.ph-red { background: rgb(110, 16, 16); color: rgb(241, 148, 138); }
+
+.chart-wrap { flex: 1 1 0%; position: relative; padding: 6px; min-height: 0=
+px; }
+
+.chart-wrap canvas { width: 100% !important; height: 100% !important; }
+------MultipartBoundary--8WlNi38WxguCccWBdkDRh7rO6iq4ZkHF069tZHIfyl------
